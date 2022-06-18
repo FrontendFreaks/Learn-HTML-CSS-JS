@@ -1,0 +1,154 @@
+/* Universal Selector */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* selector{
+    property: value;
+    property2: value2;
+} */
+
+/* Element Selector */
+p{
+    color: green;
+}
+
+/* Id Selector */
+#second{
+    color: red;
+}
+
+/* Class Selector */
+.para{
+    position: sticky;
+    top: 0;
+    color: white;
+    /* for all side  */
+    margin: 30px;
+    /* top/bottom left/right */
+    margin: 30px 0px; 
+    /* top right bottom left  */
+    margin: 30px 10px 20px 5px;
+    padding: 10px;
+    /* Backgroud  */
+    /* background-image: url('../Assets/download.jpg'); */
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-origin: content-box;
+
+    /* border  */
+    border-width: 5px;
+    border-color: green;
+    border-style: dashed;
+    border: 5px solid black;
+
+    border-top: 5px solid red;
+
+    /* text  */
+    /* text-align: left;
+    word-spacing: 10px;
+    letter-spacing: 5px; */
+}
+
+#triangle{
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid blue;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+}
+
+#circle{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+/* Grouping Selector */
+h1, p{
+    color: black;
+}
+
+/* Fonts  */
+p{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* Boldness of text  */
+    font-weight: bold;
+    /* Size of text  */
+    font-size: 20px;
+
+    font-variant: small-caps;
+    line-height: 50px;
+
+    font-style: italic;
+
+    font: italic small-caps 20px/50px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /* Colors  */
+    /* color by name */
+    color: green; 
+
+    /* hex value  */
+    color: #123;
+
+    /* rgb value  */
+    color: rgb(48, 99, 149);
+}
+p{
+    background-color: black;
+}
+/* pseudo selector  */
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 24px;
+    background: black;
+}
+
+/* mouse is over link  */
+a:hover{
+    color: blue;
+}
+
+/* the moment, link is being clicked  */
+a:active{
+    color: yellow;
+}
+/* the link is visited  */
+a:visited{
+    color: black;
+}
+
+/* Display Property  */
+/* Block Elements : take entire width and start from next line */
+/* Inline element: take necessary space, and start from same line */
+
+/* Position Property */
+.container{
+    background: yellow;
+    margin: 10px;
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+    position: relative;
+}
+
+#container-para{
+    /* static: default position  */
+    /* relative: it is relative to its actual position  */
+    /* absolute: it is relative to its first parent positioned elements */
+    /* fixed: it has fixed position acc to viewport */
+    /* sticky: it will be fixed after scroll */
+    position: sticky;
+    top: 100px;
+    left: 30px;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
