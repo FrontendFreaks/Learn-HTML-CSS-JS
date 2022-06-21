@@ -1,0 +1,54 @@
+.container{
+    /* padding: 10px; */
+    border: 1px solid black;
+    height: 80vh;
+    /* flex container  */
+    display: flex;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+
+    flex-flow: row wrap;
+    /* align items in main axis */
+    justify-content: space-evenly;
+
+    /* align items in cross axis */
+    align-items: center;
+
+    /* align items and manage space btw items  */
+    /* align-content:center; */
+
+    /* top/bottom right/left */
+    gap: 10px 50px; 
+    row-gap: 10px;
+    column-gap: 50px;
+}
+
+.items{
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+    /* margin: 10px; */
+    background: greenyellow;
+
+    /* flex items  */
+}
+
+.items:first-child{
+    /* height: 200px; */
+    /* higher the order, it will end of container  */
+    order: 2;
+
+    flex-grow: 3;
+    flex-shrink: 5;
+    /* flex-direction is row, then flex-basis will control width */
+    /* if flex-direction is col, then flex-basis will control height */
+    flex-basis: 500px;
+
+    /* grow shrink basis  */
+    flex: 3 5 500px;
+}
+
+.items:last-child{
+    order: 3;
+    align-self: center;
+}
