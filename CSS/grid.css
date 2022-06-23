@@ -1,0 +1,87 @@
+.container{
+    /* padding: 20px; */
+    border: 1px solid black;
+    background: yellowgreen;
+    height: 90vh;
+    display: grid;
+    /* grid-template-columns tell number of column & its width of each column */
+    /* grid-template-columns: 100px 100px 100px; */
+    /* grid-template-columns: 1fr 2fr 1fr 2fr; */
+    grid-template-columns: repeat(2, 1fr 2fr);
+    /* grid-template-rows will tell number of rows and height of each row */
+    grid-template-rows: 100px 300px;
+
+    /* align items in horizontal direction  */
+    /* justify-items: center; */
+    justify-content: space-evenly;
+
+    /* aling items in vertical direction  */
+    /* align-items: baseline; */
+    align-content: flex-start;
+
+    /* place-content: justify-content align-content;
+    place-items: justify-items align-items; */
+    /* row-gap: 50px;
+    column-gap: 10px; */
+    gap: 50px 10px;
+
+}
+
+.items{
+    background: cyan;
+    padding: 20px;
+    border: 2px solid black;
+    /* width: 40px; */
+}
+
+.item5{
+    /* grid items properties   */
+    /* grid-column-start: 1;
+    grid-column-end: span 3; */
+
+    grid-column: 1 / span 3;
+
+    /* grid-row-start: 2;
+    grid-row-end: span 2; */
+    grid-row: 2 / span 2;
+
+    /* grid-area: start-row / start-col / end-row / end-cool; */
+    grid-area: 2 / 1 / span 2 / span 3;
+}
+
+.item8{
+    grid-column: 1 / span 4;
+}
+
+.container2{
+    height: 90vh;
+    background: red;
+    display: grid;
+    grid-template-areas: 
+    "header header header header"
+    "article article article aside"
+    "footer footer footer footer";
+}
+
+.header{
+    grid-area: header;
+    background: yellow;
+}
+
+.article{
+    grid-area: article;
+    background: rgb(94, 94, 11);
+
+}
+
+.aside{
+    grid-area: aside;
+    background: rgb(29, 10, 201);
+
+}
+
+.footer{
+    grid-area: footer;
+    background: rgb(0, 0, 0);
+
+}
