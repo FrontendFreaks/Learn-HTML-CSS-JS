@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0e0e0e;
+    color: rgb(212 212 212);
+}
+
+.container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    width: 60vw;
+    min-width: 330px;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+input,
+button {
+    margin: 12px auto;
+    padding: 6px 12px;
+}
+
+button {
+    background-color: rgb(51, 143, 255);
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.card {
+    width: 18rem;
+    background: #202124;
+    box-shadow: 1px 2px 3px #454545;
+    padding: 12px;
+    margin: 20px;
+}
+
+.card-img,
+img {
+    margin: 5px auto;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-subHeading {
+    font-size: 14px;
+    color: rgb(87, 87, 87);
+}
+
+#reposInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#repoInfo .card {
+    border: 1px solid red;
+}
