@@ -53,3 +53,8 @@ Wait for the maintainers of the project to review your PR. They may ask for chan
 Congratulations! You have made a valuable contribution to an open source project.
 
 Remember, contributing to open source is a collaborative effort, and it's important to follow the guidelines and best practices of the project you are contributing to. Happy contributing! 🎉👏
+
+
+# Learn More about Git from here:
+
+https://youtu.be/ng_3YZHnz8U
