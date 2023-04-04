@@ -335,4 +335,5 @@ div {
 
 # Learn More about CSS from here:
 
-[Click Here](https://www.w3schools.com/css/)
+
+[![CSS Crash Course](http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg)](http://www.youtube.com/watch?v=Qu0dbQxm6II "CSS Crash Course")
