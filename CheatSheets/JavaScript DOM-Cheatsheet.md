@@ -81,3 +81,7 @@ myButton.addEventListener("click", function() {
   console.log("Button clicked!");
 });
 ```
+
+# Learn More about JavaScript DOM from here:
+
+https://youtu.be/85jzHRTVdsc
