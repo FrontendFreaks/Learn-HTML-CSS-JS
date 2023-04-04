@@ -210,6 +210,12 @@ const fruits = ['apple', 'banana', 'orange'];
 for (let fruit of fruits) {
   console.log(fruit);
 }
+// There is difference b/w for(let fruit in fruits) vs as shown above
+// `for...in` is used to iterate over properties of objects whereas `for...of` will iterate over values
+
+for(let fruit in fruits){
+  console.log(fruit); // O/P: 0 1 2 
+}
 
 // forEach method for iterating over arrays
 fruits.forEach((fruit, index) => {
@@ -301,6 +307,11 @@ console.log(even); // [2]
 ### Reduce method
 
 **`reduce()`** applies a function to each element of an array, resulting in a single output value.
+```jsx
+const numbers = [1, 2, 3];
+const sum = numbers.reduce((total, num) => total + num, 0);
+console.log(sum); // 6
+```
 
 Learn More about JS from here:
 [![JavaScript Tutorial for Beginners](https://img.youtube.com/vi/9Shi7sbrHqY/sddefault.jpg)](https://www.youtube.com/watch?v=9Shi7sbrHqY&ab_channel=VishalRajput "JavaScript Tutorial for Beginners")
