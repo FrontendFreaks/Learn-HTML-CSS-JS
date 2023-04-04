@@ -190,4 +190,4 @@
 
 # Learn More about HTML from here:
 
-https://www.w3schools.com/html/
+[![HTML Crash Course](http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg)](http://www.youtube.com/watch?v=EOwWXNBKtBM "HTML Crash Course")
