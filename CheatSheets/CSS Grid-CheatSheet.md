@@ -1,4 +1,4 @@
-![JavaScript DOM Tutorial for Beginners](https://vishal-raj-1.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F381724cd-61ee-4dda-9317-da3c96afc9c6%2Fcss-3.png?table=block&id=e3ef2276-f491-476f-bbc5-e17bc16074c5&spaceId=2119cbee-b8d9-4533-9b59-63ea95d76e4e&width=250&userId=&cache=v2)
+![CSS Grid Tutorial for Beginners](https://vishal-raj-1.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F381724cd-61ee-4dda-9317-da3c96afc9c6%2Fcss-3.png?table=block&id=e3ef2276-f491-476f-bbc5-e17bc16074c5&spaceId=2119cbee-b8d9-4533-9b59-63ea95d76e4e&width=250&userId=&cache=v2)
 
 # CSS Grid Cheatsheet
 ## 1. Grid container properties
