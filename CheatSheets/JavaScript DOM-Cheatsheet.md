@@ -1,3 +1,5 @@
+![JavaScript DOM Tutorial for Beginners](https://vishal-raj-1.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2ce8ae32-c03f-42db-9865-9a8abc50aa83%2Fjs.png?table=block&id=408271f3-22a5-4395-8ee8-755bc459674e&spaceId=2119cbee-b8d9-4533-9b59-63ea95d76e4e&width=250&userId=&cache=v2)
+
 # JavaScript DOM Cheatsheet
 
 ### What is DOM?
@@ -82,6 +84,6 @@ myButton.addEventListener("click", function() {
 });
 ```
 
-# Learn More about JavaScript DOM from here:
 
-https://youtu.be/85jzHRTVdsc
+## Learn More about JavaScript DOM from here:
+[![JS DOM Tutorial for Beginners](https://i.ytimg.com/vi/85jzHRTVdsc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs_B6goLnSFqU6x2aesa56jJmg_Q)](https://www.youtube.com/watch?v=85jzHRTVdsc&t=5s&ab_channel=VishalRajput "JS DOM Tutorial for Beginners")
