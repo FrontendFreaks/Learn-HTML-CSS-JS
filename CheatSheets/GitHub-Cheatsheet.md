@@ -55,6 +55,6 @@ Congratulations! You have made a valuable contribution to an open source project
 Remember, contributing to open source is a collaborative effort, and it's important to follow the guidelines and best practices of the project you are contributing to. Happy contributing! 🎉👏
 
 
-# Learn More about Git from here:
+# Learn More about GitHub from here:
 
-https://youtu.be/ng_3YZHnz8U
+[![Learn Git and GitHub from scratch](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U "Learn Git and GitHub from scratch")
