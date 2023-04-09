@@ -1,5 +1,3 @@
-![CSS logo](https://vishal-raj-1.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F381724cd-61ee-4dda-9317-da3c96afc9c6%2Fcss-3.png?table=block&id=e3ef2276-f491-476f-bbc5-e17bc16074c5&spaceId=2119cbee-b8d9-4533-9b59-63ea95d76e4e&width=250&userId=&cache=v2)
-
 # CSS Grid Cheatsheet
 ## 1. Grid container properties
 
@@ -137,5 +135,5 @@
 ```
 
 ## Learn More about CSS Grid from here:
-https://css-tricks.com/snippets/css/complete-guide-grid/
+
 [![CSS Grid Tutorial for Beginners](https://i.ytimg.com/vi/ULp7wPJ-rzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF_KnaTkQYj55zEN0fDGX-74JVKQ)](https://www.youtube.com/watch?v=ULp7wPJ-rzQ&ab_channel=VishalRajput "CSS Grid Tutorial for Beginners")
