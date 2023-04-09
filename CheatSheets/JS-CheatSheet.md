@@ -313,5 +313,6 @@ const sum = numbers.reduce((total, num) => total + num, 0);
 console.log(sum); // 6
 ```
 
-Learn More about JS from here:
+## Learn More about JS from here:
+
 [![JavaScript Tutorial for Beginners](https://img.youtube.com/vi/9Shi7sbrHqY/sddefault.jpg)](https://www.youtube.com/watch?v=9Shi7sbrHqY&ab_channel=VishalRajput "JavaScript Tutorial for Beginners")
