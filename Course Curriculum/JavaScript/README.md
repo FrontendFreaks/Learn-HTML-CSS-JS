@@ -2,51 +2,29 @@
 
 In this tutorial, you’ll learn about programming aspect of JavaScript:
 
-💡 What is JavaScript?
-
-📝 Introduction to JS
-
-🌐 Adding JavaScript to a web page
-
-💬 Comments in JavaScript
-
-🖨️ Printing to the console
-
-🔢 Variables in JavaScript (let vs const vs var)
-
-📝 Declaring and assigning variables
-
-➕ Arithmetic operators
-
-👉 Unary operators
-
-🔁 = vs == vs ===
-
-🔍 Conditional operators
-
-🧭 if-else statements
-
-🔀 switch statements
-
-💾 Data types in JavaScript
-
-📚 Arrays (push, pop, shift, unshift, indexOf)
-
-🔑 Objects
-
-🔂 For loops (for, for/in, for/of, for each)
-
-🔄 While loops
-
-🔁 Do-while loops
-
-🎓 Functions in JavaScript
-
-👉 Default parameters
-
-🏹 Arrow functions
-
-🗜️ Map vs filter vs reduce
+- 💡 What is JavaScript?
+- 📝 Introduction to JS
+- 🌐 Adding JavaScript to a web page
+- 💬 Comments in JavaScript
+- 🖨️ Printing to the console
+- 🔢 Variables in JavaScript (let vs const vs var)
+- 📝 Declaring and assigning variables
+- ➕ Arithmetic operators
+- 👉 Unary operators
+- 🔁 = vs == vs ===
+- 🔍 Conditional operators
+- 🧭 if-else statements
+- 🔀 switch statements
+- 💾 Data types in JavaScript
+- 📚 Arrays (push, pop, shift, unshift, indexOf)
+- 🔑 Objects
+- 🔂 For loops (for, for/in, for/of, for each)
+- 🔄 While loops
+- 🔁 Do-while loops
+- 🎓 Functions in JavaScript
+- 👉 Default parameters
+- 🏹 Arrow functions
+- 🗜️ Map vs filter vs reduce
 
 ### Watch Now
 
@@ -66,21 +44,21 @@ Complete JavaScript basics challenges from this website [https://www.jschallenge
 
 # It’s time to learn JavaScript DOM Manipulation
 
-📌 Introduction
-🧐 What is the Document Object Model (DOM)?
-🕵️‍♂️ Different methods to find HTML elements using DOM:
-💻 Get Element by ID
-💻 Get Elements by Class Name
-💻 Get Elements by Tag Name
-💻 Query Selector
-💻 Query Selector All
-💻 Working with HTML elements using DOM:
-📝 Inner HTML
-📝 Inner Text
-📝 Task 1: Program to show and hide a card
-🎧 Adding event listeners using Add Event Listener
-🎨 Changing style of HTML element using JavaScript
-📝 Task 2: Creating a Counter Program
+- 📌 Introduction
+- 🧐 What is the Document Object Model (DOM)?
+- 🕵️‍♂️ Different methods to find HTML elements using DOM:
+- 💻 Get Element by ID
+- 💻 Get Elements by Class Name
+- 💻 Get Elements by Tag Name
+- 💻 Query Selector
+- 💻 Query Selector All
+- 💻 Working with HTML elements using DOM:
+- 📝 Inner HTML
+- 📝 Inner Text
+- 📝 Task 1: Program to show and hide a card
+- 🎧 Adding event listeners using Add Event Listener
+- 🎨 Changing style of HTML element using JavaScript
+- 📝 Task 2: Creating a Counter Program
 
 ### Watch Now
 
@@ -99,21 +77,21 @@ Complete JavaScript basics challenges from this website [https://www.jschallenge
 
 In this tutorial, you will build your first fully working project. I have give some more features to implement by you as an assignment.
 
-🎬 Introduction
-🔧 Structuring the Website with HTML
-🎨 Designing the Website with CSS
-🧠 Writing the Logic for the Website with JS
-📌 Adding Notes
-📋 Showing Notes on the Website
-🗄️ Exploring localStorage & Session Storage
-📥 Storing Data in Local Storage
-📤 Using JSON.stringify
-📤 Retrieving Data from Local Storage
-📥 Using JSON.parse
-🔄 Updating Data in Local Storage
-📝 Summary of addNote & showNote (MUST WATCH)
-🗑️ Deleting Notes
-🔑 Essential Features You Should Implement
+- 🎬 Introduction
+- 🔧 Structuring the Website with HTML
+- 🎨 Designing the Website with CSS
+- 🧠 Writing the Logic for the Website with JS
+- 📌 Adding Notes
+- 📋 Showing Notes on the Website
+- 🗄️ Exploring localStorage & Session Storage
+- 📥 Storing Data in Local Storage
+- 📤 Using JSON.stringify
+- 📤 Retrieving Data from Local Storage
+- 📥 Using JSON.parse
+- 🔄 Updating Data in Local Storage
+- 📝 Summary of addNote & showNote (MUST WATCH)
+- 🗑️ Deleting Notes
+- 🔑 Essential Features You Should Implement
 
 ### Watch Now
 
@@ -138,20 +116,20 @@ Good luck with the assignment!
 
 # 🕹️ Learn JavaScript by Building a Whack A Mole Game 🦔
 
-🎬 Introduction to Whack A Mole Game
-🔧 Structuring the Game Board with HTML
-🎨 Designing the Game with CSS
-🧠 Writing the Game Logic with JS
-🎲 Placing the Mole at Random Positions
-🆕 Logic to Start a New Game
-🔄 Understanding Callback Functions
-⏰ Using setInterval() for Game Timing
-👊 Logic for Hitting the Mole
-⏳ Logic for Time Left in the Game
-🛑 Using clearInterval() to Stop the Game
-⏸️ Adding Pause and Resume Functionality
-🎵 Adding Music to the Game
-⌛ Using setTimeout() for Delayed Actions
+- 🎬 Introduction to Whack A Mole Game
+- 🔧 Structuring the Game Board with HTML
+- 🎨 Designing the Game with CSS
+- 🧠 Writing the Game Logic with JS
+- 🎲 Placing the Mole at Random Positions
+- 🆕 Logic to Start a New Game
+- 🔄 Understanding Callback Functions
+- ⏰ Using setInterval() for Game Timing
+- 👊 Logic for Hitting the Mole
+- ⏳ Logic for Time Left in the Game
+- 🛑 Using clearInterval() to Stop the Game
+- ⏸️ Adding Pause and Resume Functionality
+- 🎵 Adding Music to the Game
+- ⌛ Using setTimeout() for Delayed Actions
 
 ### Watch Now
 
@@ -175,17 +153,17 @@ Good luck with the assignment!
 
 # 🎬Master JavaScript Promises, Fetch API, and Async/Await with GitHub API Wrapper Project
 
-🔧 Project Overview (Github Wrapper)
-🌐 HTML for the website
-🧠 JS for the website
-🗃️ Fetch API in JS
-🤝 Promises in JS
-✅ Promises.then()
-❌ Promises.catch()
-🚀 How to use fetch API in JS?
-👥 Creating GitHub user profile card
-📁 Creating cards for projects
-⏭️ Async & Await in JS
+- 🔧 Project Overview (Github Wrapper)
+- 🌐 HTML for the website
+- 🧠 JS for the website
+- 🗃️ Fetch API in JS
+- 🤝 Promises in JS
+- ✅ Promises.then()
+- ❌ Promises.catch()
+- 🚀 How to use fetch API in JS?
+- 👥 Creating GitHub user profile card
+- 📁 Creating cards for projects
+- ⏭️ Async & Await in JS
 
 ### Watch Now
 

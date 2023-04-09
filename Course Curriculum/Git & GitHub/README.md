@@ -2,17 +2,17 @@
 
 In this tutorial, you’ll learn:
 
-👋 Introduction to Git and GitHub and their importance in version control for developers.
-💻 Understanding the basics of Git and how it works with repositories, branches, and commits.
-📥 Downloading Git and Git Bash and initializing a repository with git init.
-🔍 Checking the status of your repository and using the working directory, staging area, and repository in Git.
-📝 Adding files to the staging area with git add and committing changes with git commit.
-📜 Viewing the commit history with git log and configuring user information with git config.
-🔄 Resetting changes with git reset and restoring files with git restore.
-🌐 Creating a repository on GitHub and adding a remote with git remote.
-📤 Pushing changes to GitHub with git push and pulling changes with git pull.
-👨‍💻 Contributing to open-source projects by forking a repository, cloning it with git clone, and raising a pull request on GitHub.
-👀 Reviewing pull requests on GitHub and next steps for improving Git and GitHub skills.
+- 👋 Introduction to Git and GitHub and their importance in version control for developers.
+- 💻 Understanding the basics of Git and how it works with repositories, branches, and commits.
+- 📥 Downloading Git and Git Bash and initializing a repository with git init.
+- 🔍 Checking the status of your repository and using the working directory, staging area, and repository in Git.
+- 📝 Adding files to the staging area with git add and committing changes with git commit.
+- 📜 Viewing the commit history with git log and configuring user information with git config.
+- 🔄 Resetting changes with git reset and restoring files with git restore.
+- 🌐 Creating a repository on GitHub and adding a remote with git remote.
+- 📤 Pushing changes to GitHub with git push and pulling changes with git pull.
+- 👨‍💻 Contributing to open-source projects by forking a repository, cloning it with git clone, and raising a pull request on GitHub.
+- 👀 Reviewing pull requests on GitHub and next steps for improving Git and GitHub skills.
 
 [https://youtu.be/ng_3YZHnz8U](https://youtu.be/ng_3YZHnz8U)
 

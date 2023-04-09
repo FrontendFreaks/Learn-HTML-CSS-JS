@@ -2,24 +2,24 @@
 
 In this tutorial video, you will learn:
 
-📝 Introduction to HTML
-🔧 Setting up the HTML boilerplate
-📌 Adding a title to an HTML page
-🚀 Using the Live Server extension
-📚 HTML heading tags
-📖 HTML paragraph tag
-↩️ Adding line breaks and horizontal lines in HTML
-🎨 HTML elements and tags
-💪 Formatting text in HTML using bold and italic tags
-🔗 Creating links (anchor tags) in HTML
-📝 Creating lists in HTML, including unordered and ordered lists
-📊 Creating tables in HTML
-📝 Creating forms in HTML, including text inputs, labels, checkboxes, radio buttons, date inputs, number inputs, color inputs, file inputs, and submit/reset buttons
-🖼️ Adding images to an HTML page
-📺 Embedding YouTube videos and other web pages using the iframe tag
-🎧 Adding audio and video to an HTML page
-🌐 Introduction to HTML semantic tags
-📝 HTML assignment to practice the concepts learned in the tutorial video.
+- 📝 Introduction to HTML
+- 🔧 Setting up the HTML boilerplate
+- 📌 Adding a title to an HTML page
+- 🚀 Using the Live Server extension
+- 📚 HTML heading tags
+- 📖 HTML paragraph tag
+- ↩️ Adding line breaks and horizontal lines in HTML
+- 🎨 HTML elements and tags
+- 💪 Formatting text in HTML using bold and italic tags
+- 🔗 Creating links (anchor tags) in HTML
+- 📝 Creating lists in HTML, including unordered and ordered lists
+- 📊 Creating tables in HTML
+- 📝 Creating forms in HTML, including text inputs, labels, checkboxes, radio buttons, date inputs, number inputs, color inputs, file inputs, and submit/reset buttons
+- 🖼️ Adding images to an HTML page
+- 📺 Embedding YouTube videos and other web pages using the iframe tag
+- 🎧 Adding audio and video to an HTML page
+- 🌐 Introduction to HTML semantic tags
+- 📝 HTML assignment to practice the concepts learned in the tutorial video.
 
 By the end of this tutorial, you will have a basic understanding of HTML and will be able to create simple web pages and forms. 🙌
 
@@ -53,8 +53,8 @@ We hope that you found the tutorial video helpful in understanding the basic con
 
 [Portfolio](https://www.notion.so/Portfolio-bff9dbf3b31a4178a3747294bc3ee4fa)
 
-🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!
-📝 After completing each assignment, you'll need to **update the Google Sheet** to show your progress in the course (Link of the google sheet will be available on WhatsApp group)
+- 🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!
+- 📝 After completing each assignment, you'll need to **update the Google Sheet** to show your progress in the course (Link of the google sheet will be available on WhatsApp group)
 
 👏 Congratulations on completing the HTML tutorial video and assignments! 🎉👨‍💻📝
 

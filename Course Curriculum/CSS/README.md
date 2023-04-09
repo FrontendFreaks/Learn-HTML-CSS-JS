@@ -2,18 +2,18 @@
 
 In this tutorial, you’ll learn:
 
-👋 Introduction to CSS methods & precedence.
-🖋️ Understanding CSS syntax, selectors, and values.
-🎯 CSS selectors and specificity for styling.
-🆒 Working with CSS fonts for size, family, and style.
-🌈 Using CSS colors effectively for visual interest and readability.
-🎨 Creating backgrounds and gradients with CSS.
-🔲 Creating borders and shapes, like triangles and circles with CSS.
-📦 Understanding the CSS box model for element layout.
-📝 Formatting CSS text with properties.
-🔗 Creating CSS links and customizing appearance.
-🖼️ Changing element rendering with CSS display property.
-📐 Positioning elements with CSS, using absolute, relative, fixed, and sticky positioning.
+- 👋 Introduction to CSS methods & precedence.
+- 🖋️ Understanding CSS syntax, selectors, and values.
+- 🎯 CSS selectors and specificity for styling.
+- 🆒 Working with CSS fonts for size, family, and style.
+- 🌈 Using CSS colors effectively for visual interest and readability.
+- 🎨 Creating backgrounds and gradients with CSS.
+- 🔲 Creating borders and shapes, like triangles and circles with CSS.
+- 📦 Understanding the CSS box model for element layout.
+- 📝 Formatting CSS text with properties.
+- 🔗 Creating CSS links and customizing appearance.
+- 🖼️ Changing element rendering with CSS display property.
+- 📐 Positioning elements with CSS, using absolute, relative, fixed, and sticky positioning.
 
 ### Watch Now
 
@@ -38,22 +38,22 @@ We hope that you found the tutorial video helpful in understanding the basic con
 # Learn CSS Flexbox Like a Pro
 
 In this tutorial, you’ll learn:
-👋 Introduction to CSS Flexbox
-📐 CSS Flexbox Basics
-👉 Understanding the Display Property
-🔀 Using the Flex-Direction Property
-🌯 Controlling Flex Items with Flex-Wrap Property
-🌀 Combining Flex-Direction and Flex-Wrap with Flex-Flow Property
-🤝 Aligning Items Horizontally with Justify-Content Property
-👥 Aligning Items Vertically with Align-Items Property
-🌇 Aligning Multiple Lines with Align-Content Property
-🔲 Adding Space Between Elements with Gap Property
-🔢 Modifying the Order of Elements with Order Property
-📈 Expanding Elements with Flex-Grow Property
-📉 Shrinking Elements with Flex-Shrink Property
-📏 Setting the Default Size of Elements with Flex-Basis Property
-💪 Combining Flex-Grow, Flex-Shrink, and Flex-Basis with Flex Property
-🙋 Aligning Individual Elements with Align-Self Property
+- 👋 Introduction to CSS Flexbox
+- 📐 CSS Flexbox Basics
+- 👉 Understanding the Display Property
+- 🔀 Using the Flex-Direction Property
+- 🌯 Controlling Flex Items with Flex-Wrap Property
+- 🌀 Combining Flex-Direction and Flex-Wrap with Flex-Flow Property
+- 🤝 Aligning Items Horizontally with Justify-Content Property
+- 👥 Aligning Items Vertically with Align-Items Property
+- 🌇 Aligning Multiple Lines with Align-Content Property
+- 🔲 Adding Space Between Elements with Gap Property
+- 🔢 Modifying the Order of Elements with Order Property
+- 📈 Expanding Elements with Flex-Grow Property
+- 📉 Shrinking Elements with Flex-Shrink Property
+- 📏 Setting the Default Size of Elements with Flex-Basis Property
+- 💪 Combining Flex-Grow, Flex-Shrink, and Flex-Basis with Flex Property
+- 🙋 Aligning Individual Elements with Align-Self Property
 
 ### Watch Now
 
@@ -78,15 +78,15 @@ We hope that you found the tutorial video helpful in understanding the basic con
 
 In this tutorial, you’ll learn:
 
-👋 Introduction to CSS Grid and its comparison with Flexbox.
-🖥️ Coding Introduction to create a Grid layout.
-🔲 Understanding the display property and grid-template-columns and rows for defining the grid structure.
-🔁 Repeat keyword for defining a pattern of columns or rows.
-💻 justify-items, justify-content, align-items, and align-content for alignment of items on the grid.
-🌉 row-gap, column-gap, and gap property for adding space between rows and columns.
-📏 grid-column-start, grid-column-end, grid-row-start, grid-row-end, and grid-area for defining grid lines and grid areas.
-🖼️ Using grid-template-areas for a more visual way of defining grid areas.
-🎨 Enhancing layout design with additional CSS properties.
+- 👋 Introduction to CSS Grid and its comparison with Flexbox.
+- 🖥️ Coding Introduction to create a Grid layout.
+- 🔲 Understanding the display property and grid-template-columns and rows for defining the grid structure.
+- 🔁 Repeat keyword for defining a pattern of columns or rows.
+- 💻 justify-items, justify-content, align-items, and align-content for alignment of items on the grid.
+- 🌉 row-gap, column-gap, and gap property for adding space between rows and columns.
+- 📏 grid-column-start, grid-column-end, grid-row-start, grid-row-end, and grid-area for defining grid lines and grid areas.
+- 🖼️ Using grid-template-areas for a more visual way of defining grid areas.
+- 🎨 Enhancing layout design with additional CSS properties.
 
 ### Watch Now
 
