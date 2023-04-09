@@ -25,8 +25,7 @@
 | `git stash`                                              | Temporarily save changes without committing them.   |
 | `git reset`                                              | Unstage changes in the staging area.                |
 | `git revert <commit hash>`                               | Undo changes made in a specific commit.             |
-| ---------------------------------------------------------| --------------------------------------------------- |
 
 # Learn More about Github from here:
 
-https://youtu.be/ng_3YZHnz8U
+[![Learn Git and GitHub from scratch](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U "Learn Git and GitHub from scratch")
