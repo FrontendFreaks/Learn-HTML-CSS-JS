@@ -8,11 +8,11 @@
 | `git config --global user.email "youremail@example.com"` | Set your email for Git.                  |
 | `git config --global color.ui true`                      | Enable color output.                               |
 | `git init`                                               | Initialize a new Git repository.                   |
-| `git clone <repository url>`                             | Clone an existing repository to your local machine.|
+| `git clone <repository url>`                             | Clone an existing repository to your local machine.[either using https or SSH(when you have linked github with your computer using SSH keys) link]                 |
 | `git status`                                             | Show the status of your working directory and staging area.|
 | `git add <file>`                                         | Add a file to the staging area.                     |
 | `git commit -m "Commit message"`                         | Commit changes in the staging area with a message.  |
-| `git branch`                                             | Show a list of all branches in the repository.      |
+| `git branch`                                             | Show a list of all branches in the repository.[your current working branch will be green coloured with * mark before it]      |
 | `git branch <branch name>`                               | Create a new branch with the given name.            |
 | `git checkout <branch name>`                             | Switch to the branch with the given name.           |
 | `git merge <branch name>`                                | Merge changes from the specified branch into the current branch.|

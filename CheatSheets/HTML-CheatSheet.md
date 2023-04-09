@@ -183,7 +183,7 @@
 
 ```html
 
-<audio src="audio_file.mp3" controls></audio>
+<video src="video_file.mp4" controls></video>
 
 ```
 
