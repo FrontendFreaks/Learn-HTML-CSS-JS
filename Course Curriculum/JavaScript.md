@@ -29,7 +29,6 @@ In this tutorial, you’ll learn about programming aspect of JavaScript:
 - 🗜️ Map vs filter vs reduce
 
 ### Notes:
-We hope that you found the tutorial video helpful in understanding the programming concepts of JavaScript, You can refer this notes 📝 for quick revision.
 
 [JavaScript CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/JS-CheatSheet.md)
 

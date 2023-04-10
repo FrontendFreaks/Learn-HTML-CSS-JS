@@ -18,7 +18,6 @@ In this tutorial, you’ll learn:
 - 📐 Positioning elements with CSS, using absolute, relative, fixed, and sticky positioning.
 
 ### 📝 Notes:
-We hope that you found the tutorial video helpful in understanding the basic concepts of CSS, You can refer this notes 📝 for quick revision.
 
 [CSS CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS-CheatSheet.md)
 
@@ -55,7 +54,6 @@ In this tutorial, you’ll learn:
 - 🙋 Aligning Individual Elements with Align-Self Property
 
 ### 📝 Notes:
-We hope that you found the tutorial video helpful in understanding the basic concepts of Flexbox, You can refer this notes 📝 for quick revision.
 
 [CSS Flexbox CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Flexbox-Cheatsheet.md)
 
@@ -84,9 +82,6 @@ In this tutorial, you’ll learn:
 - 🎨 Enhancing layout design with additional CSS properties.
 
 ### 📝 Notes:
-
-We hope that you found the tutorial video helpful in understanding the basic concepts of CSS Grid, You can refer this notes 📝 for quick revision.
-
 
 [CSS Grid CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Grid-CheatSheet.md)
 
