@@ -64,7 +64,6 @@ We hope that you found the tutorial video helpful in understanding the basic con
 1. Now, you have all required knowledge to completely design the assignment you solved earlier.
 2. Create your portfolio, it should contain all section and it’s should be responsive. You can inspiration from this portfolio.
 
-[pporta - Made with Clipchamp (1).mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8f55fe0-fe58-4a1b-b26d-99f13f7f1efe/pporta_-_Made_with_Clipchamp_(1).mp4)
 
 📣 **It's time to showcase your portfolio! Share it on LinkedIn and Twitter, tag me, and use #FrontendWithVishal to connect with other developers and get feedback on your work**.**.**
 

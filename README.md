@@ -22,15 +22,15 @@ Fill the [form](https://forms.gle/ZXecoHGbGgeNk6V99) to access the community and
 
 # Start Learning
 
-[Let's Learn HTML! 📝👨‍💻](https://www.notion.so/Let-s-Learn-HTML-d3a02f66d9884a71b600b313e1268d3d)
+[Let's Learn HTML! 📝👨‍💻](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Course%20Curriculum/HTML.md)
 
-[Let's Dive Into CSS 🎨💻 ](https://www.notion.so/Let-s-Dive-Into-CSS-07b488c60fe344c9957bb685f0865091)
+[Let's Dive Into CSS 🎨💻 ](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Course%20Curriculum/CSS.md)
 
-[Introduction to Git & GitHub 🎬](https://www.notion.so/Introduction-to-Git-GitHub-6e29a55de64a4fcb86d23066f407ceb1)
+[Introduction to Git & GitHub 🎬](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Course%20Curriculum/Git-GitHub.md)
 
-[Mastering the JavaScript Language: From Basics to Advanced 🚀 ](https://www.notion.so/Mastering-the-JavaScript-Language-From-Basics-to-Advanced-afc1f82af2454d4492ff96cec939aaeb)
+[Mastering the JavaScript Language: From Basics to Advanced 🚀 ](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Course%20Curriculum/JavaScript.md)
 
-[CheatSheets 📝](https://www.notion.so/CheatSheets-20cc64df5d8549bf939f286e35801f44)
+[CheatSheets 📝](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/tree/main/CheatSheets/README.md)
 
 **Do Star This Repo ⭐**
 

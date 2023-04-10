@@ -28,7 +28,7 @@ By the end of this tutorial, you will have a basic understanding of HTML and wil
 ### 📝Notes:
 We hope that you found the tutorial video helpful in understanding the basic concepts of HTML, You can refer this notes 📝 for quick revision.
 
-[HTML CheatSheat](https://www.notion.so/HTML-CheatSheat-b37807acb74e4bf3a30dc91a79a94ae3)
+[HTML CheatSheat](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/HTML-CheatSheet.md)
 
 ### 📌🔨 **Task:**
 

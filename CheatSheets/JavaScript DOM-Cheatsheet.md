@@ -1,5 +1,3 @@
-![JS logo](https://vishal-raj-1.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2ce8ae32-c03f-42db-9865-9a8abc50aa83%2Fjs.png?table=block&id=408271f3-22a5-4395-8ee8-755bc459674e&spaceId=2119cbee-b8d9-4533-9b59-63ea95d76e4e&width=250&userId=&cache=v2)
-
 # JavaScript DOM Cheatsheet
 
 ### What is DOM?
