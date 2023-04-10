@@ -1,3 +1,5 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/css.png" width="200px" />
+
 # CSS Grid Cheatsheet
 ## 1. Grid container properties
 
@@ -136,4 +138,4 @@
 
 ## Learn More about CSS Grid from here:
 
-[![CSS Grid Tutorial for Beginners](https://i.ytimg.com/vi/ULp7wPJ-rzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF_KnaTkQYj55zEN0fDGX-74JVKQ)](https://www.youtube.com/watch?v=ULp7wPJ-rzQ&ab_channel=VishalRajput "CSS Grid Tutorial for Beginners")
+[![CSS Grid Tutorial for Beginners](https://i.ytimg.com/vi/ULp7wPJ-rzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF_KnaTkQYj55zEN0fDGX-74JVKQ)](https://www.youtube.com/watch?v=ULp7wPJ-rzQ&ab_channel=VishalRajput)

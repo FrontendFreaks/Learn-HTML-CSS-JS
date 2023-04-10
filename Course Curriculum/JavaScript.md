@@ -1,3 +1,6 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/js.png" width="200px" />
+
+
 # Mastering the JavaScript Language: From Basics to Advanced 🚀
 
 [![JavaScript Crash Course](http://img.youtube.com/vi/9Shi7sbrHqY/0.jpg)](http://www.youtube.com/watch?v=9Shi7sbrHqY)
@@ -28,13 +31,13 @@ In this tutorial, you’ll learn about programming aspect of JavaScript:
 - 🏹 Arrow functions
 - 🗜️ Map vs filter vs reduce
 
-### Notes:
+# 📝 Notes:
 
 [JavaScript CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/JS-CheatSheet.md)
 
 **👨‍💻📝 Now that you have completed the JavaScript tutorial video and reviewed the JavaScript cheat sheet, it's time to put your knowledge into practice by completing the JavaScript assignments. 🚀**
 
-📌🔨 **Task:**
+# 📌🔨 **Task:**
 
 Complete JavaScript basics challenges from this website [https://www.jschallenger.com/javascript-practice](https://www.jschallenger.com/javascript-practice)
 
@@ -59,11 +62,11 @@ Complete JavaScript basics challenges from this website [https://www.jschallenge
 - 🎨 Changing style of HTML element using JavaScript
 - 📝 Task 2: Creating a Counter Program
 
-### Notes:
+# 📝 Notes:
 
 [JavaScript DOM Cheatsheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/JavaScript%20DOM-Cheatsheet.md)
 
-### 📌🔨 **Task:**
+# 📌🔨 **Task:**
 
 1. Complete JavaScript DOM challenges from this website: [JavaScript Dom Exercises](https://www.jschallenger.com/javascript-dom-exercises)
 2. As your initial mini project, create a simple miniature counter application with buttons for increasing, decreasing, and resetting the count, design it using CSS, and share it on LinkedIn or Twitter with the hashtag **#FrontendWithVishal**, I will provide you with feedback on the post.
@@ -91,7 +94,7 @@ In this tutorial, you will build your first fully working project. I have give s
 - 🗑️ Deleting Notes
 - 🔑 Essential Features You Should Implement
 
-### 📌🔨 **Task:**
+# 📌🔨 **Task:**
 
 Add the following features to the Google Keep clone built in the previous tutorial:
 
@@ -139,7 +142,7 @@ Good luck with the assignment!
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb8c2549-03fb-4c86-9b36-c6b37e58ce84/Untitled.png)
     
 
-### 📌🔨 **Task:**
+# 📌🔨 **Task:**
 
 1. Complete the project, make it responsive.
 2. Deploy your fully working frontend project on GitHub and host it. Share the project's link on LinkedIn and Twitter using the hashtag **#FrontendWithVishal** to showcase your skills and connect with the community
@@ -166,7 +169,7 @@ Good luck with the assignment!
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/905767e4-6c54-4586-b19d-01bf7e2a479e/Untitled.png)
     
 
-### 📌🔨 **Task:**
+# 📌🔨 **Task:**
 
 1. Add these filter on repos, repository should be sorted on the basis of these filters
 

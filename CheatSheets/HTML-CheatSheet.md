@@ -1,3 +1,5 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/html.png" width="200px" />
+
 # HTML CheatSheet
 
 ## Basic Structure
@@ -190,4 +192,4 @@
 
 # Learn More about HTML from here:
 
-[![HTML Crash Course](http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg)](http://www.youtube.com/watch?v=EOwWXNBKtBM "HTML Crash Course")
+[![HTML Crash Course](http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg)](http://www.youtube.com/watch?v=EOwWXNBKtBM)

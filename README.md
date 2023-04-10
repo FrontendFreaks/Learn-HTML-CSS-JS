@@ -5,16 +5,30 @@
 
 ## Welcome to frontend developer essential course !!
 
-- 👨‍💻 In this batch, you'll learn the **basics of HTML, CSS, JavaScript, Git, and GitHub from scratch**.
-- 🎓 We provide you with everything you need to learn and excel in the Frontend Developer Essential Course!
-- 💻 You'll have access to **20+ assignments to practice what you learn, 10+ cheat sheets to revise and reinforce your knowledge, and 100+ questions to test your understanding**.
-- 📈 Plus, we have a leaderboard to track your progress and keep you motivated.
-- 🚀 And don't forget to share your projects and assignments on LinkedIn and Twitter using #FrontendWithVishal for at least 30 days to showcase your skills to potential employers!
-- 📝 After completing each assignment, you'll need to submit it for review by me.
-- 🔍 Once I've reviewed your work, you'll need to update the Google Sheet to show your progress in the course (Link of the google sheet will be available on WhatsApp group)
-- 🙋‍♀️ If you need any help or have any questions related to the assignments or projects, our WhatsApp community is here to support you.
-- 🤝 Additionally, we'll have weekly sessions on resume building, personal branding, doubt clearing, and bringing in industry experts to provide you with the best learning experience.
-- 🌟 After completing this batch, you'll be promoted to batch 2 where we'll cover advanced topics in frontend development.
+👨‍💻 In this batch, you'll learn the **basics of HTML, CSS, JavaScript, Git, and GitHub from scratch**.
+
+🎓 We provide you with everything you need to learn and excel in the Frontend Developer Essential Course!
+
+💻 You'll have access to **20+ assignments to practice what you learn, 10+ cheat sheets to revise and reinforce your knowledge, and 
+100+ questions to test your understanding**.
+
+📈 Plus, we have a leaderboard to track your progress and keep you motivated.
+
+🚀 And don't forget to share your projects and assignments on LinkedIn and Twitter using #FrontendWithVishal for at least 30 days to 
+showcase your skills to potential employers!
+
+📝 After completing each assignment, you'll need to submit it for review by me.
+
+🔍 Once I've reviewed your work, you'll need to update the Google Sheet to show your progress in the course (Link of the google 
+sheet will be available on WhatsApp group)
+
+🙋‍♀️ If you need any help or have any questions related to the assignments or projects, our WhatsApp community is here to support you.
+
+🤝 Additionally, we'll have weekly sessions on resume building, personal branding, doubt clearing, and bringing in industry experts 
+to provide you with the best learning experience.
+
+🌟 After completing this batch, you'll be promoted to batch 2 where we'll cover advanced topics in frontend development.
+
 
 ## Want to Join Free Mentorship?
 

@@ -1,3 +1,5 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/js.png" width="200px" />
+
 # JavaScript CheatSheet
 
 ### ****Adding JavaScript to a web page****
@@ -315,4 +317,4 @@ console.log(sum); // 6
 
 ## Learn More about JS from here:
 
-[![JavaScript Tutorial for Beginners](https://img.youtube.com/vi/9Shi7sbrHqY/sddefault.jpg)](https://www.youtube.com/watch?v=9Shi7sbrHqY&ab_channel=VishalRajput "JavaScript Tutorial for Beginners")
+[![JavaScript Tutorial for Beginners](https://img.youtube.com/vi/9Shi7sbrHqY/sddefault.jpg)](https://www.youtube.com/watch?v=9Shi7sbrHqY&ab_channel=VishalRajput)

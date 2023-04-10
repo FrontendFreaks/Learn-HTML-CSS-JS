@@ -1,3 +1,5 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/github.png" width="200px" />
+
 # GitHub CheatSheet
 
 # **How to Contribute to an Open Source Project**
@@ -57,4 +59,4 @@ Remember, contributing to open source is a collaborative effort, and it's import
 
 # Learn More about GitHub from here:
 
-[![Learn Git and GitHub from scratch](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U "Learn Git and GitHub from scratch")
+[![Learn Git and GitHub from scratch](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U)

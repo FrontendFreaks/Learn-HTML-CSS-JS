@@ -1,3 +1,5 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/css.png" width="200px" />
+
 # CSS CheatSheet
 
 ## Adding CSS to HTML (3 methods & precedence)
@@ -336,4 +338,4 @@ div {
 # Learn More about CSS from here:
 
 
-[![CSS Crash Course](http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg)](http://www.youtube.com/watch?v=Qu0dbQxm6II "CSS Crash Course")
+[![CSS Crash Course](http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg)](http://www.youtube.com/watch?v=Qu0dbQxm6II)

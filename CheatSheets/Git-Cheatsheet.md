@@ -1,3 +1,5 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/git.png" width="200px" />
+
 # Git CheatSheet
 
 
@@ -28,4 +30,4 @@
 
 # Learn More about Github from here:
 
-[![Learn Git and GitHub from scratch](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U "Learn Git and GitHub from scratch")
+[![Learn Git and GitHub from scratch](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U)

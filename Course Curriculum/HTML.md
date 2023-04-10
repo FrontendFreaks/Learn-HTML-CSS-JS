@@ -1,35 +1,54 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/html.png" width="200px" />
+
 # Let's Learn HTML! 📝👨‍💻
 
 [![HTML Crash Course](http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg)](http://www.youtube.com/watch?v=EOwWXNBKtBM)
 
 In this tutorial video, you will learn:
 
-- 📝 Introduction to HTML
-- 🔧 Setting up the HTML boilerplate
-- 📌 Adding a title to an HTML page
-- 🚀 Using the Live Server extension
-- 📚 HTML heading tags
-- 📖 HTML paragraph tag
-- ↩️ Adding line breaks and horizontal lines in HTML
-- 🎨 HTML elements and tags
-- 💪 Formatting text in HTML using bold and italic tags
-- 🔗 Creating links (anchor tags) in HTML
-- 📝 Creating lists in HTML, including unordered and ordered lists
-- 📊 Creating tables in HTML
-- 📝 Creating forms in HTML, including text inputs, labels, checkboxes, radio buttons, date inputs, number inputs, color inputs, file inputs, and submit/reset buttons
-- 🖼️ Adding images to an HTML page
-- 📺 Embedding YouTube videos and other web pages using the iframe tag
-- 🎧 Adding audio and video to an HTML page
-- 🌐 Introduction to HTML semantic tags
-- 📝 HTML assignment to practice the concepts learned in the tutorial video.
+📝 Introduction to HTML
+
+🔧 Setting up the HTML boilerplate
+
+📌 Adding a title to an HTML page
+
+🚀 Using the Live Server extension
+
+📚 HTML heading tags
+
+📖 HTML paragraph tag
+
+↩️ Adding line breaks and horizontal lines in HTML
+
+🎨 HTML elements and tags
+
+💪 Formatting text in HTML using bold and italic tags
+
+🔗 Creating links (anchor tags) in HTML
+
+📝 Creating lists in HTML, including unordered and ordered lists
+
+📊 Creating tables in HTML
+
+📝 Creating forms in HTML, including text inputs, labels, checkboxes, radio buttons, date inputs, number inputs, color inputs, file inputs, and submit/reset buttons
+
+🖼️ Adding images to an HTML page
+
+📺 Embedding YouTube videos and other web pages using the iframe tag
+
+🎧 Adding audio and video to an HTML page
+
+🌐 Introduction to HTML semantic tags
+
+📝 HTML assignment to practice the concepts learned in the tutorial video.
 
 By the end of this tutorial, you will have a basic understanding of HTML and will be able to create simple web pages and forms. 🙌
 
-### 📝Notes:
+# 📝Notes:
 
 [HTML CheatSheat](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/HTML-CheatSheet.md)
 
-### 📌🔨 **Task:**
+# 📌🔨 **Task:**
 
 - Follow along with the video and learn about HTML basics such as elements, tags, and the structure of an HTML page.
 - Practice using HTML tags such as headings, paragraphs, lists, tables, forms, and multimedia.

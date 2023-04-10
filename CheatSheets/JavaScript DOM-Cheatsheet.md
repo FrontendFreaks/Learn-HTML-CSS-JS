@@ -1,3 +1,5 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/js.png" width="200px" />
+
 # JavaScript DOM Cheatsheet
 
 ### What is DOM?
@@ -84,4 +86,4 @@ myButton.addEventListener("click", function() {
 
 
 ## Learn More about JavaScript DOM from here:
-[![JS DOM Tutorial for Beginners](https://i.ytimg.com/vi/85jzHRTVdsc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs_B6goLnSFqU6x2aesa56jJmg_Q)](https://www.youtube.com/watch?v=85jzHRTVdsc&t=5s&ab_channel=VishalRajput "JS DOM Tutorial for Beginners")
+[![JS DOM Tutorial for Beginners](https://i.ytimg.com/vi/85jzHRTVdsc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs_B6goLnSFqU6x2aesa56jJmg_Q)](https://www.youtube.com/watch?v=85jzHRTVdsc&t=5s&ab_channel=VishalRajput)

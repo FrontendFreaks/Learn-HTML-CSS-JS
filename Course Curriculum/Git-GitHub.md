@@ -1,3 +1,6 @@
+<img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/Icons/github.png" width="200px" />
+
+
 # Introduction to Git & GitHub 🎬
 
 [![Git & GitHub Crash Course](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U)
@@ -17,13 +20,13 @@ In this tutorial, you’ll learn:
 - 👀 Reviewing pull requests on GitHub and next steps for improving Git and GitHub skills.
 
 
-### 📝 Notes:
+# 📝 Notes:
 
 [Git CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/Git-Cheatsheet.md)
 
 [GitHub CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/GitHub-Cheatsheet.md)
 
-### **📌🔨 Task:**
+# **📌🔨 Task:**
 
 1. 📂 Create a repository named **Frontend Developer Essential,** and upload all your completed and upcoming assignments there.
 2. 📣 Share your **GitHub profile** on LinkedIn and Twitter using **#FrontendWithVishal**, and mention me to get feedback on your work.
