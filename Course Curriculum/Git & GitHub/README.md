@@ -1,5 +1,7 @@
 # Introduction to Git & GitHub 🎬
 
+[![Git & GitHub Crash Course](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U)
+
 In this tutorial, you’ll learn:
 
 - 👋 Introduction to Git and GitHub and their importance in version control for developers.
@@ -14,13 +16,12 @@ In this tutorial, you’ll learn:
 - 👨‍💻 Contributing to open-source projects by forking a repository, cloning it with git clone, and raising a pull request on GitHub.
 - 👀 Reviewing pull requests on GitHub and next steps for improving Git and GitHub skills.
 
-[https://youtu.be/ng_3YZHnz8U](https://youtu.be/ng_3YZHnz8U)
 
 ### 📝 Notes:
 
-[Git CheatSheet](https://www.notion.so/Git-CheatSheet-5f456fe3db924771bf83414017f50c57)
+[Git CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/Git-Cheatsheet.md)
 
-[GitHub CheatSheet](https://www.notion.so/GitHub-CheatSheet-2319242c12764d5fb7f1f9c48a9c6d62)
+[GitHub CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/GitHub-Cheatsheet.md)
 
 ### **📌🔨 Task:**
 

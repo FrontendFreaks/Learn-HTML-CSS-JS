@@ -1,5 +1,7 @@
 # Mastering the JavaScript Language: From Basics to Advanced 🚀
 
+[![JavaScript Crash Course](http://img.youtube.com/vi/9Shi7sbrHqY/0.jpg)](http://www.youtube.com/watch?v=9Shi7sbrHqY)
+
 In this tutorial, you’ll learn about programming aspect of JavaScript:
 
 - 💡 What is JavaScript?
@@ -26,15 +28,10 @@ In this tutorial, you’ll learn about programming aspect of JavaScript:
 - 🏹 Arrow functions
 - 🗜️ Map vs filter vs reduce
 
-### Watch Now
-
-[https://youtu.be/9Shi7sbrHqY](https://youtu.be/9Shi7sbrHqY)
-
+### Notes:
 We hope that you found the tutorial video helpful in understanding the programming concepts of JavaScript, You can refer this notes 📝 for quick revision.
 
-### Notes:
-
-[JavaScript CheatSheet](https://www.notion.so/JavaScript-CheatSheet-52c1bf901dfc4a538047e9c334811629)
+[JavaScript CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/JS-CheatSheet.md)
 
 **👨‍💻📝 Now that you have completed the JavaScript tutorial video and reviewed the JavaScript cheat sheet, it's time to put your knowledge into practice by completing the JavaScript assignments. 🚀**
 
@@ -43,6 +40,9 @@ We hope that you found the tutorial video helpful in understanding the programmi
 Complete JavaScript basics challenges from this website [https://www.jschallenger.com/javascript-practice](https://www.jschallenger.com/javascript-practice)
 
 # It’s time to learn JavaScript DOM Manipulation
+
+[![JavaScript DOM Manipulation Crash Course](http://img.youtube.com/vi/85jzHRTVdsc/0.jpg)](http://www.youtube.com/watch?v=85jzHRTVdsc)
+
 
 - 📌 Introduction
 - 🧐 What is the Document Object Model (DOM)?
@@ -60,20 +60,19 @@ Complete JavaScript basics challenges from this website [https://www.jschallenge
 - 🎨 Changing style of HTML element using JavaScript
 - 📝 Task 2: Creating a Counter Program
 
-### Watch Now
-
-[https://youtu.be/85jzHRTVdsc](https://youtu.be/85jzHRTVdsc)
-
 ### Notes:
 
-[JavaScript DOM Cheatsheet](https://www.notion.so/JavaScript-DOM-Cheatsheet-622dc4a361574c39b9cf88c11b9801f5)
+[JavaScript DOM Cheatsheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/JavaScript%20DOM-Cheatsheet.md)
 
 ### 📌🔨 **Task:**
 
-1. Complete JavaScript DOM challenges from this website: [https://www.jschallenger.com/javascript-dom-exercises](https://www.jschallenger.com/javascript-dom-exercises)
+1. Complete JavaScript DOM challenges from this website: [JavaScript Dom Exercises](https://www.jschallenger.com/javascript-dom-exercises)
 2. As your initial mini project, create a simple miniature counter application with buttons for increasing, decreasing, and resetting the count, design it using CSS, and share it on LinkedIn or Twitter with the hashtag **#FrontendWithVishal**, I will provide you with feedback on the post.
 
 # 📝 Building a Google Keep Clone with JavaScript: Step-by-Step Tutorial
+
+[![Building a Google Keep Clone with JavaScript: Step-by-Step Tutorial](http://img.youtube.com/vi/CVS8CdVrsoc/0.jpg)](http://www.youtube.com/watch?v=CVS8CdVrsoc)
+
 
 In this tutorial, you will build your first fully working project. I have give some more features to implement by you as an assignment.
 
@@ -92,10 +91,6 @@ In this tutorial, you will build your first fully working project. I have give s
 - 📝 Summary of addNote & showNote (MUST WATCH)
 - 🗑️ Deleting Notes
 - 🔑 Essential Features You Should Implement
-
-### Watch Now
-
-[https://www.youtube.com/watch?v=CVS8CdVrsoc&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=8&ab_channel=VishalRajput](https://www.youtube.com/watch?v=CVS8CdVrsoc&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=8&ab_channel=VishalRajput)
 
 ### 📌🔨 **Task:**
 
@@ -116,6 +111,9 @@ Good luck with the assignment!
 
 # 🕹️ Learn JavaScript by Building a Whack A Mole Game 🦔
 
+[![Learn JavaScript by Building a Whack A Mole Game](http://img.youtube.com/vi/lY7j-NBGFHM/0.jpg)](http://www.youtube.com/watch?v=lY7j-NBGFHM)
+
+
 - 🎬 Introduction to Whack A Mole Game
 - 🔧 Structuring the Game Board with HTML
 - 🎨 Designing the Game with CSS
@@ -130,10 +128,6 @@ Good luck with the assignment!
 - ⏸️ Adding Pause and Resume Functionality
 - 🎵 Adding Music to the Game
 - ⌛ Using setTimeout() for Delayed Actions
-
-### Watch Now
-
-[https://www.youtube.com/watch?v=lY7j-NBGFHM&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=9&ab_channel=VishalRajput](https://www.youtube.com/watch?v=lY7j-NBGFHM&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=9&ab_channel=VishalRajput)
 
 - **Design Preview**
     
@@ -153,6 +147,9 @@ Good luck with the assignment!
 
 # 🎬Master JavaScript Promises, Fetch API, and Async/Await with GitHub API Wrapper Project
 
+[![Master JavaScript Promises, Fetch API, and Async/Await with GitHub API Wrapper Project](http://img.youtube.com/vi/z1LJ_gWwzFs/0.jpg)](http://www.youtube.com/watch?v=z1LJ_gWwzFs)
+
+
 - 🔧 Project Overview (Github Wrapper)
 - 🌐 HTML for the website
 - 🧠 JS for the website
@@ -164,10 +161,6 @@ Good luck with the assignment!
 - 👥 Creating GitHub user profile card
 - 📁 Creating cards for projects
 - ⏭️ Async & Await in JS
-
-### Watch Now
-
-[https://www.youtube.com/watch?v=z1LJ_gWwzFs&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=10&ab_channel=VishalRajput](https://www.youtube.com/watch?v=z1LJ_gWwzFs&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=10&ab_channel=VishalRajput)
 
 - **Basic Design Preview (Try to Re design it completely)**
     

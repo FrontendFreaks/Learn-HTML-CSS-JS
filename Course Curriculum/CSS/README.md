@@ -1,5 +1,7 @@
 # Let's Dive Into CSS 🎨💻
 
+[![CSS Crash Course](http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg)](http://www.youtube.com/watch?v=Qu0dbQxm6II)
+
 In this tutorial, you’ll learn:
 
 - 👋 Introduction to CSS methods & precedence.
@@ -15,15 +17,10 @@ In this tutorial, you’ll learn:
 - 🖼️ Changing element rendering with CSS display property.
 - 📐 Positioning elements with CSS, using absolute, relative, fixed, and sticky positioning.
 
-### Watch Now
-
-[https://www.youtube.com/watch?v=Qu0dbQxm6II&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ](https://www.youtube.com/watch?v=Qu0dbQxm6II&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ)
-
+### 📝 Notes:
 We hope that you found the tutorial video helpful in understanding the basic concepts of CSS, You can refer this notes 📝 for quick revision.
 
-### 📝 Notes:
-
-[CSS CheatSheet](https://www.notion.so/CSS-CheatSheet-dd999a7ecc094e279adc15092b0cfacb)
+[CSS CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS-CheatSheet.md)
 
 ### 📌🔨 **Task:**
 
@@ -36,6 +33,8 @@ We hope that you found the tutorial video helpful in understanding the basic con
 **Don’t worry about responsive design, we will implement responsive design after learning flexbox and grid.**
 
 # Learn CSS Flexbox Like a Pro
+
+[![Learn More about CSS Flexbox from here](http://img.youtube.com/vi/3nLglJtUHjA/0.jpg)](http://www.youtube.com/watch?v=3nLglJtUHjA)
 
 In this tutorial, you’ll learn:
 - 👋 Introduction to CSS Flexbox
@@ -55,15 +54,10 @@ In this tutorial, you’ll learn:
 - 💪 Combining Flex-Grow, Flex-Shrink, and Flex-Basis with Flex Property
 - 🙋 Aligning Individual Elements with Align-Self Property
 
-### Watch Now
-
-[https://www.youtube.com/watch?v=3nLglJtUHjA&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=4&ab_channel=VishalRajput](https://www.youtube.com/watch?v=3nLglJtUHjA&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=4&ab_channel=VishalRajput)
-
+### 📝 Notes:
 We hope that you found the tutorial video helpful in understanding the basic concepts of Flexbox, You can refer this notes 📝 for quick revision.
 
-### 📝 Notes:
-
-[CSS Flexbox CheatSheet](https://www.notion.so/CSS-Flexbox-CheatSheet-44b703fb87064fad9fc7857c6f70e136)
+[CSS Flexbox CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Flexbox-Cheatsheet.md)
 
 ### 📌🔨 **Task:**
 
@@ -75,6 +69,8 @@ We hope that you found the tutorial video helpful in understanding the basic con
 📣 **It's time to showcase your portfolio! Share it on LinkedIn and Twitter, tag me, and use #FrontendWithVishal to connect with other developers and get feedback on your work**.**.**
 
 # Watch Tutorial video on CSS Grid:
+
+[![Learn More about CSS Flexbox from here](http://img.youtube.com/vi/ULp7wPJ-rzQ/0.jpg)](https://youtu.be/ULp7wPJ-rzQ)
 
 In this tutorial, you’ll learn:
 
@@ -88,15 +84,12 @@ In this tutorial, you’ll learn:
 - 🖼️ Using grid-template-areas for a more visual way of defining grid areas.
 - 🎨 Enhancing layout design with additional CSS properties.
 
-### Watch Now
-
-[https://www.youtube.com/watch?v=ULp7wPJ-rzQ&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=5&ab_channel=VishalRajput](https://www.youtube.com/watch?v=ULp7wPJ-rzQ&list=PLSH9gf0XETou_b8C3SJm8rk69Z41eUgbQ&index=5&ab_channel=VishalRajput)
+### 📝 Notes:
 
 We hope that you found the tutorial video helpful in understanding the basic concepts of CSS Grid, You can refer this notes 📝 for quick revision.
 
-### 📝 Notes:
 
-[CSS Grid CheatSheet](https://www.notion.so/CSS-Grid-CheatSheet-a5e9df2cbe804c098e9982c175f6b748)
+[CSS Grid CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Grid-CheatSheet.md)
 
 ### 📌🔨 **Task:**
 

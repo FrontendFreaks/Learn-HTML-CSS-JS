@@ -1,5 +1,7 @@
 # Let's Learn HTML! 📝👨‍💻
 
+[![HTML Crash Course](http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg)](http://www.youtube.com/watch?v=EOwWXNBKtBM)
+
 In this tutorial video, you will learn:
 
 - 📝 Introduction to HTML
@@ -23,13 +25,8 @@ In this tutorial video, you will learn:
 
 By the end of this tutorial, you will have a basic understanding of HTML and will be able to create simple web pages and forms. 🙌
 
-### Watch Now
-
-[https://youtu.be/EOwWXNBKtBM](https://youtu.be/EOwWXNBKtBM)
-
-We hope that you found the tutorial video helpful in understanding the basic concepts of HTML, You can refer this notes 📝 for quick revision.
-
 ### 📝Notes:
+We hope that you found the tutorial video helpful in understanding the basic concepts of HTML, You can refer this notes 📝 for quick revision.
 
 [HTML CheatSheat](https://www.notion.so/HTML-CheatSheat-b37807acb74e4bf3a30dc91a79a94ae3)
 
@@ -43,7 +40,7 @@ We hope that you found the tutorial video helpful in understanding the basic con
 
 👨‍💻📝 Now that you have completed the HTML tutorial video and reviewed the HTML cheatsheet, it's time to put your knowledge into practice by completing the HTML assignments. 🚀
 
-[https://youtu.be/OS1TZKl9IP4](https://youtu.be/OS1TZKl9IP4)
+[![How to submit Assignment?](http://img.youtube.com/vi/OS1TZKl9IP4/0.jpg)](http://www.youtube.com/watch?v=OS1TZKl9IP4)
 
 [HTML List Assignment](https://www.notion.so/HTML-List-Assignment-a73e04fdd5304a5a86cac874a62f39ca)
 
