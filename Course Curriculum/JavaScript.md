@@ -145,8 +145,10 @@ Good luck with the assignment!
 - 🎵 Adding Music to the Game
 - ⌛ Using setTimeout() for Delayed Actions
 
-### **Design Preview**
+<details>
+  <summary><strong> Design Preview </strong> </summary>
     
+
 1. Starting Screen of Game (Desktop)
 
 <div align="center">
@@ -160,7 +162,7 @@ Good luck with the assignment!
     <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/whack-a-mole-final-screen.png"/>
 </div>  
 
-
+</details>
 
 ### 🔨 Task:
 
@@ -187,11 +189,15 @@ Good luck with the assignment!
 - 📁 Creating cards for projects
 - ⏭️ Async & Await in JS
 
-### **Basic Design Preview (Try to Re design it completely)**
+<details>
+    <summary><strong> Basic Design Preview (Try to Re design it completely) </strong> </summary>
+
 
 <div align="center">
     <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/github-wrapper-preview.png"/>
 </div>
+
+</details>
    
 ### 🔨 Task:
 

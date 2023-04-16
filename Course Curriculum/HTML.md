@@ -10,41 +10,24 @@
 
 In this tutorial video, you will learn:
 
-📝 Introduction to HTML
-
-🔧 Setting up the HTML boilerplate
-
-📌 Adding a title to an HTML page
-
-🚀 Using the Live Server extension
-
-📚 HTML heading tags
-
-📖 HTML paragraph tag
-
-↩️ Adding line breaks and horizontal lines in HTML
-
-🎨 HTML elements and tags
-
-💪 Formatting text in HTML using bold and italic tags
-
-🔗 Creating links (anchor tags) in HTML
-
-📝 Creating lists in HTML, including unordered and ordered lists
-
-📊 Creating tables in HTML
-
+- 📝 Introduction to HTML
+- 🔧 Setting up the HTML boilerplate
+- 📌 Adding a title to an HTML page
+- 🚀 Using the Live Server extension
+- 📚 HTML heading tags
+- 📖 HTML paragraph tag
+- ↩️ Adding line breaks and horizontal lines in HTML
+- 🎨 HTML elements and tags
+- 💪 Formatting text in HTML using bold and italic tags
+- 🔗 Creating links (anchor tags) in HTML
+- 📝 Creating lists in HTML, including unordered and ordered lists
+- 📊 Creating tables in HTML
 📝 Creating forms in HTML, including text inputs, labels, checkboxes, radio buttons, date inputs, number inputs, color inputs, file inputs, and submit/reset buttons
-
-🖼️ Adding images to an HTML page
-
-📺 Embedding YouTube videos and other web pages using the iframe tag
-
-🎧 Adding audio and video to an HTML page
-
-🌐 Introduction to HTML semantic tags
-
-📝 HTML assignment to practice the concepts learned in the tutorial video.
+- 🖼️ Adding images to an HTML page
+- 📺 Embedding YouTube videos and other web pages using the iframe tag
+- 🎧 Adding audio and video to an HTML page
+- 🌐 Introduction to HTML semantic tags
+- 📝 HTML assignment to practice the concepts learned in the tutorial video.
 
 By the end of this tutorial, you will have a basic understanding of HTML and will be able to create simple web pages and forms. 🙌
 
