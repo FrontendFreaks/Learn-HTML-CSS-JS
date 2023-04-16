@@ -337,5 +337,8 @@ div {
 
 # Learn More about CSS from here:
 
-
-[![CSS Crash Course](http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg)](http://www.youtube.com/watch?v=Qu0dbQxm6II)
+<div align="center">
+  <a href="https://youtu.be/Qu0dbQxm6II" >
+    <img src="http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg" alt="CSS Crash Course" />
+  </a>
+</div>

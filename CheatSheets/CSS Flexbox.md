@@ -127,6 +127,10 @@
 }
 ```
 
-## Learn More about CSS Flexbox from here:
+# Learn More about CSS Flexbox from here:
 
-[![Learn More about CSS Flexbox from here](http://img.youtube.com/vi/3nLglJtUHjA/0.jpg)](http://www.youtube.com/watch?v=3nLglJtUHjA)
+<div align="center">
+  <a href="https://youtu.be/3nLglJtUHjA" >
+    <img src="http://img.youtube.com/vi/3nLglJtUHjA/0.jpg" alt="Learn More about CSS Flexbox from here" />
+  </a>
+</div>

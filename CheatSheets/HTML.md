@@ -192,4 +192,8 @@
 
 # Learn More about HTML from here:
 
-[![HTML Crash Course](http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg)](http://www.youtube.com/watch?v=EOwWXNBKtBM)
+<div align="center">
+  <a href="https://youtu.be/EOwWXNBKtBM" >
+    <img src="http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg" alt="HTML Crash Course" />
+  </a>
+</div>

@@ -136,6 +136,10 @@
 }
 ```
 
-## Learn More about CSS Grid from here:
+# Learn More about CSS Grid from here:
 
-[![CSS Grid Tutorial for Beginners](https://i.ytimg.com/vi/ULp7wPJ-rzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF_KnaTkQYj55zEN0fDGX-74JVKQ)](https://www.youtube.com/watch?v=ULp7wPJ-rzQ&ab_channel=VishalRajput)
+<div align="center">
+  <a href="https://youtu.be/ULp7wPJ-rzQ" >
+    <img src="http://img.youtube.com/vi/ULp7wPJ-rzQ/0.jpg" alt="Learn More about CSS Grid from here" />
+  </a>
+</div>

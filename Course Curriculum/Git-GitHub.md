@@ -3,7 +3,11 @@
 
 # Introduction to Git & GitHub 🎬
 
-[![Git & GitHub Crash Course](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U)
+<div align="center">
+  <a href="https://youtu.be/ng_3YZHnz8U" >
+    <img src="http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg" alt="Git & GitHub Crash Course" />
+  </a>
+</div>
 
 In this tutorial, you’ll learn:
 
@@ -20,15 +24,15 @@ In this tutorial, you’ll learn:
 - 👀 Reviewing pull requests on GitHub and next steps for improving Git and GitHub skills.
 
 
-# 📝 Notes:
+### 📝 Notes:
 
-[Git CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/Git-Cheatsheet.md)
+[Git CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/Git.md)
 
-[GitHub CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/GitHub-Cheatsheet.md)
+[GitHub CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/GitHub.md)
 
-# **📌🔨 Task:**
+### 🔨 Task:
 
 1. 📂 Create a repository named **Frontend Developer Essential,** and upload all your completed and upcoming assignments there.
 2. 📣 Share your **GitHub profile** on LinkedIn and Twitter using **#FrontendWithVishal**, and mention me to get feedback on your work.
 3. 🆕 Moving forward, create a new repository for each project we will build.
-4. 🌐 **Host the Portfolio** on GitHub **** you built after the CSS Flexbox video and share it on LinkedIn and Twitter using **#FrontendWithVishal**, and mention me to get feedback on your work.
+4. 🌐 **Host the Portfolio** on GitHub you built after the CSS Flexbox video and share it on LinkedIn and Twitter using **#FrontendWithVishal**, and mention me to get feedback on your work.

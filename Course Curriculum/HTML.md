@@ -2,7 +2,11 @@
 
 # Let's Learn HTML! 📝👨‍💻
 
-[![HTML Crash Course](http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg)](http://www.youtube.com/watch?v=EOwWXNBKtBM)
+<div align="center">
+  <a href="https://youtu.be/EOwWXNBKtBM" >
+    <img src="http://img.youtube.com/vi/EOwWXNBKtBM/0.jpg" alt="HTML Crash Course" />
+  </a>
+</div>
 
 In this tutorial video, you will learn:
 
@@ -44,11 +48,11 @@ In this tutorial video, you will learn:
 
 By the end of this tutorial, you will have a basic understanding of HTML and will be able to create simple web pages and forms. 🙌
 
-# 📝Notes:
+### 📝 Notes:
 
-[HTML CheatSheat](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/HTML-CheatSheet.md)
+[HTML CheatSheat](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/HTML.md)
 
-# 📌🔨 **Task:**
+### 🔨 Task:
 
 - Follow along with the video and learn about HTML basics such as elements, tags, and the structure of an HTML page.
 - Practice using HTML tags such as headings, paragraphs, lists, tables, forms, and multimedia.
@@ -71,7 +75,9 @@ Create a timeline using an ordered list. The timeline can be about a historical 
 
 **Preview:**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09f37a04-5b7e-49aa-98e5-89fb32a9710b/Untitled.png)
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/timeline.png" />
+</div>
 
 ## #2 Restaurant Menu
 
@@ -79,7 +85,9 @@ Create a menu for a restaurant using an ordered list. Each item on the menu shou
 
 **Preview:**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e24ec80-c88e-413c-a2a8-664728d94607/Untitled.png)
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/restaurant-menu.png" />
+</div>
 
 ## #3 Todo List
 
@@ -87,24 +95,32 @@ Create a to-do list with an unordered list. Each item on the list should be a ta
 
 **Preview:**
 
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/todo-list-html.png" />
+</div>
+
+
 </details>
 
 <details>
     <summary> HTML TABLE Assignment</summary> 
 
 # HTML Table Assignment
-    Create a table that displays the prices of products in an online store. The table should have the following columns: Product Name, Description, Price, and Availability. Populate the table with data for at least five products.
+
+Create a table that displays the prices of products in an online store. The table should have the following columns: Product Name, Description, Price, and Availability. Populate the table with data for at least five products.
 
 **Preview:**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cabbf234-366a-4bd2-b34c-58369d562605/Untitled.png)
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/price-details-table.png" />
+</div>
 
 </details>
 
 <details>
     <summary> HTML FORM Assignment</summary>
 
-    # Registeration Form Assignment
+# Registeration Form Assignment
 
 Create a user registration form for a website using the HTML form tags. The form should include the following fields:
 
@@ -120,13 +136,18 @@ The form should also include a Submit button to submit the form and a Reset butt
 
 **Preview:**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88a14a8f-643d-41c4-85b5-876defe61042/Untitled.png)
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/form-html.png" />
+</div>
 
-**After Learning CSS(Skip for now)**: ****Glassmorphism Login Form in HTML & CSS. Add all the required field here.****
+**After Learning CSS(Skip for now)**: **Glassmorphism Login Form in HTML & CSS. Add all the required field here.**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ad4ba29-0bf0-4bda-9cdc-10fc82298a2e/Untitled.png)
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/form-css.png" />
+</div>
 
 **After Learning JavaScript(Skip for now):** After the form is submitted, the user's information should be displayed on a confirmation page using HTML. The confirmation page should include a message welcoming the user to the website and thanking them for registering. The page should also display the user's name, email, date of birth, gender, and interests.
+
 </details>
 
 
@@ -134,13 +155,19 @@ The form should also include a Submit button to submit the form and a Reset butt
     <summary> Portfolio Assignment</summary>
 
 # Portfolio Assignment
-    Create a basic HTML portfolio that includes an "About Me" section, as well as sections for displaying your skills, education, projects and work experience. Include a "Contact" section with your email address and social media links
+
+Create a basic HTML portfolio that includes an "About Me" section, as well as sections for displaying your skills, education, projects and work experience. Include a "Contact" section with your email address and social media links
 
 **Preview:**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab4fac59-af24-4896-a25f-b978f526efbb/Untitled.png)
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/portfolio-1.png" />
+</div>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4cbe6e89-ed35-460d-b36c-691fa752d2d4/Untitled.png)
+<div align="center">
+    <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/portfolio-2.png" />
+</div>
+
 </details>
 
 🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!

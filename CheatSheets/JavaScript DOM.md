@@ -85,5 +85,10 @@ myButton.addEventListener("click", function() {
 ```
 
 
-## Learn More about JavaScript DOM from here:
-[![JS DOM Tutorial for Beginners](https://i.ytimg.com/vi/85jzHRTVdsc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs_B6goLnSFqU6x2aesa56jJmg_Q)](https://www.youtube.com/watch?v=85jzHRTVdsc&t=5s&ab_channel=VishalRajput)
+# Learn More about JavaScript DOM from here:
+
+<div align="center">
+  <a href="https://youtu.be/85jzHRTVdsc" >
+    <img src="http://img.youtube.com/vi/85jzHRTVdsc/0.jpg" alt="JavaScript DOM Manipulation Crash Course" />
+  </a>
+</div>

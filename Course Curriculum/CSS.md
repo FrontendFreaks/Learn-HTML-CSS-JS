@@ -2,7 +2,11 @@
 
 # Let's Dive Into CSS 🎨💻
 
-[![CSS Crash Course](http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg)](http://www.youtube.com/watch?v=Qu0dbQxm6II)
+<div align="center">
+  <a href="https://youtu.be/Qu0dbQxm6II" >
+    <img src="http://img.youtube.com/vi/Qu0dbQxm6II/0.jpg" alt="CSS Crash Course" />
+  </a>
+</div>
 
 In this tutorial, you’ll learn:
 
@@ -19,11 +23,11 @@ In this tutorial, you’ll learn:
 - 🖼️ Changing element rendering with CSS display property.
 - 📐 Positioning elements with CSS, using absolute, relative, fixed, and sticky positioning.
 
-# 📝 Notes:
+### 📝 Notes:
 
-[CSS CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS-CheatSheet.md)
+[CSS CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS.md)
 
-# 📌🔨 **Task:**
+### 🔨 Task:
 
 - You need to design all the assignments you have solved so far using CSS.
 - Apply your knowledge of CSS syntax, selectors, box model, layout, typography, colors, and backgrounds to the design.
@@ -35,7 +39,11 @@ In this tutorial, you’ll learn:
 
 # Learn CSS Flexbox Like a Pro
 
-[![Learn More about CSS Flexbox from here](http://img.youtube.com/vi/3nLglJtUHjA/0.jpg)](http://www.youtube.com/watch?v=3nLglJtUHjA)
+<div align="center">
+  <a href="https://youtu.be/3nLglJtUHjA" >
+    <img src="http://img.youtube.com/vi/3nLglJtUHjA/0.jpg" alt="Learn More about CSS Flexbox from here" />
+  </a>
+</div>
 
 In this tutorial, you’ll learn:
 - 👋 Introduction to CSS Flexbox
@@ -55,21 +63,25 @@ In this tutorial, you’ll learn:
 - 💪 Combining Flex-Grow, Flex-Shrink, and Flex-Basis with Flex Property
 - 🙋 Aligning Individual Elements with Align-Self Property
 
-# 📝 Notes:
+### 📝 Notes:
 
-[CSS Flexbox CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Flexbox-Cheatsheet.md)
+[CSS Flexbox CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Flexbox.md)
 
-# 📌🔨 **Task:**
+### 🔨 Task:
 
 1. Now, you have all required knowledge to completely design the assignment you solved earlier.
-2. Create your portfolio, it should contain all section and it’s should be responsive. You can inspiration from this portfolio.
+2. Create your portfolio, it should contain all section and it’s should be responsive. You can inspiration from [this portfolio](https://vishal-raj-1.github.io/Portfolio/).
 
 
 📣 **It's time to showcase your portfolio! Share it on LinkedIn and Twitter, tag me, and use #FrontendWithVishal to connect with other developers and get feedback on your work**.**.**
 
 # Watch Tutorial video on CSS Grid:
 
-[![Learn More about CSS Flexbox from here](http://img.youtube.com/vi/ULp7wPJ-rzQ/0.jpg)](https://youtu.be/ULp7wPJ-rzQ)
+<div align="center">
+  <a href="https://youtu.be/ULp7wPJ-rzQ" >
+    <img src="http://img.youtube.com/vi/ULp7wPJ-rzQ/0.jpg" alt="Learn More about CSS Grid from here" />
+  </a>
+</div>
 
 In this tutorial, you’ll learn:
 
@@ -83,15 +95,17 @@ In this tutorial, you’ll learn:
 - 🖼️ Using grid-template-areas for a more visual way of defining grid areas.
 - 🎨 Enhancing layout design with additional CSS properties.
 
-# 📝 Notes:
+### 📝 Notes:
 
-[CSS Grid CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Grid-CheatSheet.md)
+[CSS Grid CheatSheet](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/CSS%20Grid.md)
 
-# 📌🔨 **Task:**
+### 🔨 Task:
 
 🎉👨‍💻 Encourage to create beautiful layouts using CSS Grid like below and share on social media.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ec248ed-afa5-4c70-9e8f-345b949ef532/Untitled.png)
+<div align="center">
+  <img src="https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/grid-layout.png" alt="Grid Layout" />
+</div>
 
 **Try to complete this assignment by yourself. If you want to learn more about css grid you can refer this blog.**
 

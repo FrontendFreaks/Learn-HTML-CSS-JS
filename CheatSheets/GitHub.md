@@ -59,4 +59,8 @@ Remember, contributing to open source is a collaborative effort, and it's import
 
 # Learn More about GitHub from here:
 
-[![Learn Git and GitHub from scratch](http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg)](http://www.youtube.com/watch?v=ng_3YZHnz8U)
+<div align="center">
+  <a href="https://youtu.be/ng_3YZHnz8U" >
+    <img src="http://img.youtube.com/vi/ng_3YZHnz8U/0.jpg" alt="Git & GitHub Crash Course" />
+  </a>
+</div>
