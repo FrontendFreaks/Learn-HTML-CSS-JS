@@ -115,6 +115,14 @@ In this tutorial, you’ll learn:
 
 [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
+### Create LinkedIn Clone using HTML & CSS only
+
+**Reference**: Remove User Icon with your Image
+
+Note: It can easily be done using any CSS framework, but you should work on HTML and CSS only so that you can understand and become better in CSS.
+
+![LinkedIn Clone](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/Assets/linkedin.png)
+
 **📣👨‍💻Attention Students!👩‍💻📣**
 
 Congratulations on completing the CSS, CSS Flexbox, and CSS Grid tutorials! Now it's time to level up your skills and learn about Git and Github. These tools are essential for version control and collaboration in web development
