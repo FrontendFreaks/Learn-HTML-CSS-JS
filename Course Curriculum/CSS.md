@@ -115,7 +115,7 @@ In this tutorial, you’ll learn:
 
 [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
-### Create LinkedIn Clone using HTML & CSS only
+### TASK: Create LinkedIn Home Page Clone using HTML & CSS only
 
 **Reference**: Remove User Icon with your Image
 

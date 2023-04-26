@@ -48,6 +48,13 @@ Fill the [form](https://forms.gle/ZXecoHGbGgeNk6V99) to access the community and
 
 **Do Star This Repo ⭐**
 
+## Track your progress
+
+1. You'll need to update the Google Sheet to show your progress in the course (Link of the google sheet will be available to registered students only)
+2. You should write a blog on [https://hashnode.com/](https://hashnode.com/), sharing What did you learn and accomplish this past week in your coding journey? Share your experience working on a project, your feedback on your progress, where you faced problem or get stuck, how did you resolve it, where you can improve and your plans for what you hope to achieve next week.
+    
+[Example Blog for Hash Node (LinkedIn Post)](https://github.com/Vishal-raj-1/Frontend-Development-Essentials/blob/main/CheatSheets/Blog.md)
+
 ## Introduction of Mentor
 
 <br />
