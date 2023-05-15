@@ -73,9 +73,6 @@ Fill the [form](https://forms.gle/ZXecoHGbGgeNk6V99) to access the community and
   <a href="https://twitter.com/vishalraj_1">
     <img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">
   </a>
-  <a href="https://www.instagram.com/vishal_raj_1_/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="mailto:rajputvishal33786@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
