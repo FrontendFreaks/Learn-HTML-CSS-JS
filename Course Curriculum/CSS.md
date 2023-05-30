@@ -70,7 +70,7 @@ In this tutorial, you’ll learn:
 ### 🔨 Task:
 
 1. Now, you have all required knowledge to completely design the assignment you solved earlier.
-2. Create your portfolio, it should contain all section and it’s should be responsive. You can inspiration from [this portfolio](https://vishal-raj-1.github.io/Portfolio/).
+2. Create your portfolio, it should contain all section and it should be responsive. You can take inspiration from [this portfolio](https://vishal-raj-1.github.io/Portfolio/).
 
 
 📣 **It's time to showcase your portfolio! Share it on LinkedIn and Twitter, tag me, and use #FrontendWithVishal to connect with other developers and get feedback on your work**.**.**
